@@ -12,6 +12,11 @@ import SuccessImg from "../../public/img/Success.jpg";
 import IdeaImg from "../../public/img/idea.jpg";
 import EarthImg from "../../public/img/savePlanet.jpg";
 import userOneImg from "../../public/img/7309681.jpg";
+import One from "../../public/img/3.png";
+import Two from "../../public/img/4.png";
+import Three from "../../public/img/5.png";
+import Four from "../../public/img/MSME.png";
+import Five from "../../public/img/TCC.png";
 
 import {
   NewspaperIcon,
@@ -80,7 +85,7 @@ export default function Home() {
         <title>Madhavudu International - Exports & Imports</title>
         <meta
           name="description"
-          content="Madhavudu International is a import and export business based out of india, delivering excellence worldwide"
+          content="Madhavudu International is a export and import business based out of india, delivering excellence worldwide"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -109,7 +114,58 @@ export default function Home() {
           </div>
         </div>
       </div>
-
+      <div className="grid gap-10 lg:grid-cols-3 sm:grid-cols-1">
+        <Image
+          src={One}
+          width="521"
+          height="482"
+          alt="Benefits"
+          placeholder="blur"
+          style={{
+            maxWidth: "100%",
+            height: "auto"
+          }} />
+        <Image
+          src={Two}
+          width="521"
+          height="482"
+          alt="Benefits"
+          placeholder="blur"
+          style={{
+            maxWidth: "100%",
+            height: "auto"
+          }} />
+        <Image
+          src={Three}
+          width="521"
+          height="482"
+          alt="Benefits"
+          placeholder="blur"
+          style={{
+            maxWidth: "100%",
+            height: "auto"
+          }} />
+        <Image
+          src={Four}
+          width="521"
+          height="482"
+          alt="Benefits"
+          placeholder="blur"
+          style={{
+            maxWidth: "100%",
+            height: "auto"
+          }} />
+        <Image
+          src={Five}
+          width="521"
+          height="482"
+          alt="Benefits"
+          placeholder="blur"
+          style={{
+            maxWidth: "100%",
+            height: "auto"
+          }} />
+      </div>
       <Benefits data={benefitOne}></Benefits>
       <Benefits data={benefitTwo} imgPos="right"></Benefits>
       <Container className="flex items-center">
