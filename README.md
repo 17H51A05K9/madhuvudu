@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
  
@@ -45,3 +46,6 @@ Deploy this template using [Vercel](https://vercel.com?utm_source=github&utm_med
 ## Author
 
 Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+=======
+# madhuvudu
+>>>>>>> 7f8ec4471c3a5d733eae17c5342e0b22dacc91a3
