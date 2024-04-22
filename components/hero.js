@@ -12,8 +12,8 @@ export default function Hero() {
             Indian Exporter: Empowering Farmers, Delivering Excellence
           </h1>
           <p className="py-5 text-md leading-normal text-gray-500 md:text-xl xl:text-2xl dark:text-gray-300">
-            Welcome to Jaywin, your trusted partner for importing and
-            exporting high-quality pulses, grains, fruits, and textiles from
+            Welcome to Madhavudu International, your trusted partner for exporting and
+            importing high-quality pulses, grains, and fruits from
             India, offering competitive pricing and unwavering support to our
             valued farmers.
           </p>

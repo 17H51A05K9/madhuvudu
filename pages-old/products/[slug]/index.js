@@ -31,7 +31,7 @@ export default function Page({ params}) {
   return pathname ? (
     <>
       <Head>
-        <title>Jaywin - Imports & Exports</title>
+        <title>Jaywin - Exports & Imports</title>
         <meta
           name="description"
           content="Jaywin is a import and export business based out of india, delivering excellence worldwide"

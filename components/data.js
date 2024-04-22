@@ -35,7 +35,7 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "Unmatched quality",
-  desc: "We understand that the quality of goods is important to our clients. We are committed to providing our clients with the highest quality goods possible. We believe that our focus on quality is one of the things that makes us the best choice for importing goods.",
+  desc: "We understand that the quality of goods is important to our clients. We are committed to providing our clients with the highest quality goods possible. We believe that our focus on quality is one of the things that makes us the best choice for exporting goods.",
   image: benefitTwoImg,
   bullets: [
     {

@@ -1,10 +1,12 @@
 import Link from "next/link";
 import React from "react";
 import Container from "./container";
+import MadhuvuduSvg from "../public/img/madhuvudu.png";
+import NextImage from "next/image";
 
 export default function Footer() {
   const navigation = ["Home", "Products", "About", "Contact Us"];
-  const legal = ["Legal"];
+  const legal = [""];
   return (
     <div className="relative">
       <Container>
@@ -25,13 +27,13 @@ export default function Footer() {
                     className="w-8"
                   />
                 </span> */}
-                <span>Jaywin</span>
+                <span>Madhavudu International</span>
 
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400 hidden lg:block">
-              If you are looking for a reliable and trustworthy import export
+              If you are looking for a reliable and trustworthy export and import
               company, then we encourage you to contact us. We would be happy to
               discuss your specific needs and requirements and to provide you
               with a free quote.
@@ -71,7 +73,7 @@ export default function Footer() {
             Follow us</div>
             <div className="flex space-x-5 text-gray-400 dark:text-gray-500 items-center md:mt-5">
               <a
-                href="https://twitter.com/web3templates"
+                href="https://twitter.com/MadhavuduIntl"
                 target="_blank"
                 rel="noopener"
               >
@@ -79,7 +81,7 @@ export default function Footer() {
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/web3templates"
+                href="https://www.facebook.com/profile.php?id=61558475670032&mibextid=ZbWKwL"
                 target="_blank"
                 rel="noopener"
               >
@@ -87,16 +89,19 @@ export default function Footer() {
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/web3templates"
+                href="https://www.instagram.com/madhavuduinternational/"
                 target="_blank"
                 rel="noopener"
               >
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
-              <a href="https://linkedin.com/" target="_blank" rel="noopener">
+              <a href="https://www.linkedin.com/company/madhavuduinternational/?viewAsMember=true" target="_blank" rel="noopener"/>
                 <span className="sr-only">Linkedin</span>
                 <Linkedin />
+              <a href="https://t.globallinker.com/WuGfF" target="_blank" rel="noopener">
+              <span className="sr-only">Global Linker</span>
+              <Madhavudu/>
               </a>
             </div>
           </div>
@@ -118,6 +123,17 @@ const Twitter = ({ size = 24 }) => (
   >
     <path d="M24 4.37a9.6 9.6 0 0 1-2.83.8 5.04 5.04 0 0 0 2.17-2.8c-.95.58-2 1-3.13 1.22A4.86 4.86 0 0 0 16.61 2a4.99 4.99 0 0 0-4.79 6.2A13.87 13.87 0 0 1 1.67 2.92 5.12 5.12 0 0 0 3.2 9.67a4.82 4.82 0 0 1-2.23-.64v.07c0 2.44 1.7 4.48 3.95 4.95a4.84 4.84 0 0 1-2.22.08c.63 2.01 2.45 3.47 4.6 3.51A9.72 9.72 0 0 1 0 19.74 13.68 13.68 0 0 0 7.55 22c9.06 0 14-7.7 14-14.37v-.65c.96-.71 1.79-1.6 2.45-2.61z" />
   </svg>
+);
+
+const Madhavudu = ({ size = 24 }) => (
+  <NextImage
+  alt="GLobal Linker"
+  src={MadhuvuduSvg}
+    width={size}
+    height={size}
+  style={{ backgroundBlendMode: 'darken' }}
+/>
+
 );
 
 const Facebook = ({ size = 24 }) => (

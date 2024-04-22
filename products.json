@@ -1,304 +1,101 @@
 [
   {
-    "icon": "https://i.postimg.cc/HssGvGhx/Cinnamon.jpg",
+    "icon": "https://i.postimg.cc/Mczg39T8/Picsart-24-04-16-22-33-59-290.png",
     "name": "Cinnamon",
     "desc": "Our cinnamon sticks are hand-picked from the lush forests of India, ensuring the highest quality and freshness. Each stick is carefully rolled and sun-dried to perfection, preserving its sweet and spicy aroma. Perfect for adding flavor to your favorite dishes or infusing into tea for a warm and comforting beverage.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/mhq6hnRf"
+    "link": "https://i.postimg.cc/Mczg39T8"
   },
   {
-    "icon": "https://i.postimg.cc/wTdrZC4J/DSCF8182-1.jpg",
+    "icon": "https://i.postimg.cc/SYnB7jK2/Picsart-24-04-16-22-35-39-217.png",
     "name": "Cashew",
     "desc": "India is a top cashew nut producer, with trees grown in coastal regions. The nut is harvested by hand and roasted to remove toxins. The industry employs thousands and is vital to the economy",
     "category": "Agriculture",
-    "link": "https://postimg.cc/t72DVMjC"
+    "link": "https://i.postimg.cc/SYnB7jK2"
   },
   {
-    "icon": "https://i.postimg.cc/1tFKmz7H/DSCF8251-19.jpg",
-    "name": "Basmati Rice",
-    "desc": "Basmati rice is a premium long-grain rice with a unique aroma, flavor, and texture. It is widely used in Indian cuisine. The rice is carefully tended to ensure optimal growth and yield, then harvested, dried, milled, and sorted.​",
+    "icon": "https://i.postimg.cc/sM5RNB45/Picsart-24-04-16-22-37-11-714.png",
+    "name": "Ground Nuts",
     "category": "Agriculture",
-    "link": "https://postimg.cc/PptDKdjp"
+    "desc":"Indulge in Excellence: Experience the Superior Flavor of Our Premium Groundnuts! Welcome to our world of top-tier groundnuts, where quality meets unbeatable taste. We pride ourselves on sourcing only the finest nuts, ensuring each bite is a burst of rich, nutty goodness. Our dedication to quality means you can trust that every groundnut delivers on both flavor and freshness. Whether you're snacking solo, hosting a gathering, or seeking nutritious ingredients for your recipes, our superior groundnuts promise satisfaction with every crunch. Explore our selection today and elevate your snacking experience to new heights!",
+    "link": "https://i.postimg.cc/sM5RNB45"
   },
   {
 
     "name": "Lemon Salt",
     "desc": "Try Lemon Salt from India for a unique burst of flavor in your dishes. Made from high-quality sea salt and Indian lemons, it's perfect for grilled meats, seafood, and more. This 100% natural seasoning is packed with vitamin C and antioxidants, and comes in a resealable packet for convenience.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/WdNNMYr5",
-    "icon": "https://i.postimg.cc/YCgvBJSB/DSCF8645-129.jpg"
+    "link": "https://i.postimg.cc/bG8jczmW",
+    "icon": "https://i.postimg.cc/bG8jczmW/Picsart-24-04-16-22-38-30-513.png"
   },
   {
-    "icon": "https://i.postimg.cc/gjzPFrGw/Brown-Rice.jpg",
+    "icon": "https://i.postimg.cc/dDXPQRW8/Picsart-24-04-16-22-39-49-698.png",
     "name": "Brown Rice",
     "desc": "Brown rice, also known as \"unpolished rice,\" is a popular whole grain in India. It is produced by removing only the outermost layer of the rice grain, leaving the bran and germ intact. As a result, it offers a nourishing and fiber-rich alternative to white rice for those seeking a more healthful option.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/47S0pf7Z"
+    "link": "https://i.postimg.cc/dDXPQRW8"
   },
   {
-    "icon": "https://i.postimg.cc/7LmSGFrJ/DSCF8672-135.jpg",
+    "icon": "https://i.postimg.cc/3dsT1jmK/Picsart-24-04-16-22-42-58-324.png",
     "name": "Ground Nuts",
     "desc": "India is the 2nd largest ground nut producer, vital for the economy and used in snacks, cooking oil, and traditional dishes. Exports to US, China, and Japan. Govt addressing industry challenges. Significant role in food culture and growth potential.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/PLvC0Fxd"
+    "link": "https://i.postimg.cc/3dsT1jmK"
   },
   {
-    "icon": "https://i.postimg.cc/fLyqJ7pZ/DSCF8819-178.jpg",
+    "icon": "https://i.postimg.cc/BjTdCrJg/Picsart-24-04-16-22-45-09-914.png",
     "name": "Maize",
     "desc": "Corn is one of the most important cereal crops grown in India. It is mainly produced in the states of Karnataka, Andhra Pradesh, Maharashtra, and Telangana. The production of corn in India has been steadily increasing over the years, making it a major contributor to the country's food and economic security.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/CBys28w6"
+    "link": "https://i.postimg.cc/BjTdCrJg"
   },
   {
-    "icon": "https://i.postimg.cc/qR6Y1XLw/DSCF8735-152.jpg",
+    "icon": "https://i.postimg.cc/N9jqFdqx/Picsart-24-04-16-22-47-08-513.png",
     "name": "Sugar",
     "desc": "India is one of the largest producers of sugar in the world. The country produces both raw and refined sugar. The major sugarcane producing states in India are Uttar Pradesh, Maharashtra, and Karnataka.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/XG3QJ5tB"
+    "link": "https://i.postimg.cc/N9jqFdqx"
   },
   {
-    "icon": "https://i.postimg.cc/9Xb4nn2M/DSCF8425-60.jpg",
+    "icon": "https://i.postimg.cc/LqTFmr7X/Picsart-24-04-16-22-48-31-535.png",
     "name": "Dried Chilli",
     "desc": "Our dried chilli is sourced from the rich farmlands of India, where it is grown and harvested with utmost care. It packs a fiery punch and adds a burst of flavor to any dish, making it a must-have in your spice collection. Enjoy the authentic taste of India in every bite.",
     "category": "Agriculture",
-    "link": "https://postimg.cc/SjXNXVJF"
+    "link": "https://i.postimg.cc/LqTFmr7X"
   },
   {
-    "icon": "https://i.postimg.cc/kMQrJQHk/DSCF8381-48.jpg",
-    "name": "Kidney Bean",
-    "desc": "Our kidney beans are sourced from the finest farms in India, ensuring a rich and unique taste. They are high in fiber, antioxidants, and protein, making them a healthy addition to any meal. Perfect for soups, stews, salads, and vegetarian dishes.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/K48pQMxN"
-  },
-  {
-    "icon": "https://i.postimg.cc/vZzryLp8/DSCF8467-78.jpg",
-    "name": "Dry Coconut",
-    "desc": "Our dry coconut is sourced from the lush coconut groves of India. It is a natural, gluten-free, and vegan snack that is perfect for adding texture and flavor to your favorite recipes. This premium quality product is free from preservatives, additives, and artificial flavors.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/nXXjY7FN"
-  },
-  {
-    "icon": "https://i.postimg.cc/PJQ13X4r/DSCF8421-58.jpg",
-    "name": "Mustard",
-    "desc": "Our premium quality Mustard from India is made from the finest seeds, packed with essential oils and nutrients, and is versatile in a variety of dishes. It is gluten-free, vegan, and low in calories with high antioxidants. Available in various sizes for home or commercial use, try it today for an authentic taste of India!",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/H8jJjCRf"
-  },
-  {
-    "icon": "https://i.postimg.cc/1XQjVzX9/DSCF8435-64.jpg",
-    "name": "Cloves",
-    "desc": "Our cloves are sourced from India's finest farms, where they are grown and harvested with care to ensure premium quality. With their rich, warm aroma and intense flavor, these aromatic spice buds are perfect for adding depth to your cooking and baking. Whether you're making a spicy curry or a sweet dessert, our cloves are a must-have ingredient in your pantry.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/MM9Dhq14"
-  },
-  {
-    "icon": "https://i.postimg.cc/DZJS42DY/DSCF8440-66.jpg",
-    "name": "Black Pepper",
-    "desc": "Our Black Pepper is handpicked from the lush green fields of India, ensuring the highest quality and freshness. Its rich flavor and aroma make it the perfect addition to any dish, from soups to stir-fries. Add a touch of spice to your life with our premium Black Pepper.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/YG7rJwt1"
-  },
-  {
-    "icon": "https://i.postimg.cc/pXp5gJqt/DSCF8445-68.jpg",
-    "name": "Black Till",
-    "desc": "Black till is a high-quality sesame seed that is produced in India. It is rich in nutrients like protein, fiber, and healthy fats. This versatile ingredient can be used in a variety of dishes, from salads and dressings to baked goods and snacks.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/HV1LM5qS"
-  },
-  {
-    "icon": "https://i.postimg.cc/dVfb5wDY/DSCF8450-70.jpg",
-    "name": "Khus Khus",
-    "desc": "Khus Khus (poppy seeds) is a nutritious, earthy ingredient in Indian cuisine. Our high-quality seeds are sourced from India and perfect for adding flavor and texture to a variety of dishes. Try it for an authentic Indian taste.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/RWcpFrcs"
-  },
-  {
-    "icon": "https://i.postimg.cc/P56wcFkh/DSCF8455-72.jpg",
-    "name": "Ajwain",
-    "desc": "Our ajwain (carom seeds) is sourced directly from India, where it is traditionally used in cooking and medicine. Its pungent, peppery flavor adds depth to curries, soups, and pickles. This versatile spice is also known for its digestive and respiratory benefits.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/VJCv0g6H"
-  },
-  {
-    "icon": "https://i.postimg.cc/vHV2GfZp/DSCF8458-74.jpg",
-    "name": "Bay Leaves",
-    "desc": "Our Bay Leaves are sourced from the lush green forests of India. These handpicked leaves are sun-dried to retain their natural aroma and flavor. Add them to your recipes for an authentic Indian touch.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/WhswnDrn"
-  },
-  {
-    "icon": "https://i.postimg.cc/x100H0hT/DSCF8463-76.jpg",
-    "name": "Jeera",
-    "desc": "Our Jeera is produced in India using traditional farming methods, resulting in a rich and authentic flavor. It is carefully harvested and processed to ensure the highest quality and purity. Perfect for enhancing the taste of your favorite dishes, our Jeera is a must-have in every kitchen.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/qz5VHdp9"
-  },
-  {
-    "icon": "https://i.postimg.cc/Kc6w3x4k/DSCF8473-80.jpg",
-    "name": "Chana Dal",
-    "desc": "Our chana dal, produced in India, is a high-quality protein-rich lentil that is perfect for making a variety of dishes. It has a nutty flavor and a firm texture, making it ideal for soups, stews, and salads. Our product is sourced from the finest farms and is 100% natural and free from any additives or preservatives.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/7bNmpv3w"
-  },
-  {
-    "icon": "https://i.postimg.cc/rs5DyMYX/DSCF8488-86.jpg",
-    "name": "Idly Rava",
-    "desc": "Idly Rava is a fine grain semolina made from parboiled rice. It is perfect for making soft and fluffy idlis, a popular South Indian breakfast item. The rava is easy to cook and is a healthy and nutritious option for a wholesome breakfast.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/QKx80G30"
-  },
-  {
-    "icon": "https://i.postimg.cc/T1JsXWxz/DSCF8478-83.jpg",
-    "name": "Coriander",
-    "desc": "Our coriander is produced in India, carefully harvested and packaged to preserve its natural aroma and flavor. It adds a distinct taste to your dishes and is perfect for Indian and Middle Eastern cuisine. Our coriander is 100% natural and free from any additives or preservatives.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/Zv0H8nCH"
-  },
-  {
-    "name": "Toor Dal",
-    "desc": "Our Toor Dal is produced in India and is of the highest quality. It is rich in protein, fiber, and other essential nutrients. Its unique flavor and aroma make it the perfect addition to any Indian dish.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/N2h8HDvs",
-    "icon": "https://i.postimg.cc/wMMwn4Wm/DSCF8494-87.jpg"
-  },
-  {
-    "icon": "https://i.postimg.cc/FH6GJxHr/DSCF8509-90.jpg",
-    "name": "Urad Dal",
-    "desc": "Our Urad dal is grown and harvested in India, known for its high-quality and authentic taste. It is a rich source of protein, fiber and essential nutrients which makes it an ideal addition to your daily diet. Our product is carefully packaged in air-tight containers to ensure freshness and longevity.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/ZWr6GpN2"
-  },
-  {
-    "icon": "https://i.postimg.cc/1tbr8Rmv/DSCF8527-94.jpg",
-    "name": "White Peas",
-    "desc": "Our White Peas are grown and harvested in India, ensuring the highest quality and freshness. These versatile legumes can be used in a variety of dishes, from stews to salads to curries. Packed with protein, fiber, and essential nutrients, our White Peas are a healthy addition to any meal.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/TLqDS6Wb"
-  },
-  {
-    "icon": "https://i.postimg.cc/J4FMt9ZG/DSCF8537-97.jpg",
-    "name": "Green Peas",
-    "desc": "Our Green Peas are carefully grown and harvested in India, ensuring the highest quality and freshness. Packed with essential nutrients, our peas are a delicious and healthy addition to any meal. Add them to soups, salads, curries, or simply enjoy them as a tasty snack.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/D81tMpCT"
-  },
-  {
-    "icon": "https://i.postimg.cc/h4zq62Hn/DSCF8542-99.jpg",
-    "name": "Black Eyed Pea",
-    "desc": "Our Black Eyed Peas are grown and produced in the fertile land of India. They are rich in protein, fiber and other essential nutrients, making them a perfect addition to your healthy diet. These peas are also easy to cook and can be used in a variety of dishes.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/9zhSqYmg"
-  },
-  {
-    "icon": "https://i.postimg.cc/NMgPYkGQ/DSCF8571-104.jpg",
-    "name": "Green Chickpea",
-    "desc": "Green Chickpea, also known as hara chana, is a nutritious legume that is widely consumed in India. Grown in the fertile soil of India, this protein-rich superfood is packed with essential vitamins and minerals. Its mild, nutty flavor makes it a versatile ingredient in many dishes and a popular snack in India.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/nsP1G7QW"
-  },
-  {
-    "icon": "https://i.postimg.cc/7LMJ0g3G/DSCF8586-108.jpg",
-    "name": "Mat Bean",
-    "desc": "Our mat bean, also known as moth bean, is grown and produced in India. This small, beige-colored legume is packed with protein, fiber, and essential nutrients. Use it in curries, salads, and soups for a healthy and delicious addition to your meals.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/xk8dSNFn"
-  },
-  {
-    "icon": "https://i.postimg.cc/pTC0G5Hy/DSCF8592-110.jpg",
-    "name": "Green Gram Split",
-    "desc": "Our split green gram, also known as moong dal, is sourced from the fertile farms of India. Rich in protein and fiber, it is a versatile ingredient for Indian cuisine. Our product is carefully processed to ensure the highest quality and purity.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/MMcbXTX8"
-  },
-  {
-    "icon": "https://i.postimg.cc/2yPn2CVV/DSCF8598-112.jpg",
-    "name": "Black Urad",
-    "desc": "Our Black urad is a highly nutritious legume sourced from the finest farms in India using sustainable farming practices. It's rich in protein, fiber, and essential nutrients like iron, calcium, and potassium. We ensure the highest quality by carefully sorting and cleaning the beans.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/tnN1gQdj"
-  },
-  {
-    "icon": "https://i.postimg.cc/FFJpk6f7/DSCF8608-115.jpg",
-    "name": "Green Cardamom",
-    "desc": "Our Green Cardamom is handpicked from the lush plantations in India. It is carefully processed to retain its aromatic and flavorful qualities. This spice is perfect for enhancing the taste of your dishes and beverages.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/9zCZvJYh"
-  },
-  {
-    "icon": "https://i.postimg.cc/7LFVK1dx/DSCF8612-117.jpg",
-    "name": "Black Cardamom",
-    "desc": "This Black Cardamom is sourced from the lush forests of India. It has a bold and smoky flavor that adds depth to dishes. Perfect for curries, stews, and marinades.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/NyxmMXQV"
-  },
-  {
-    "icon": "https://i.postimg.cc/W3cGGNqz/DSCF8618-120.jpg",
-    "name": "Methi",
-    "desc": "Methi, also known as fenugreek, is a popular herb used in Indian cuisine. Our Methi is produced in India, ensuring authenticity and quality. It adds a unique flavor and aroma to dishes and is also known for its health benefits.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/KKQ3FyNh"
-  },
-  {
-    "icon": "https://i.postimg.cc/Cxfncygq/DSCF8630-123.jpg",
-    "name": "Mustard Big",
-    "desc": "Our Mustard, produced in India, is made from the finest quality mustard seeds. It has a rich, nutty flavor that is perfect for adding depth and complexity to your favorite dishes. Whether you're cooking up a storm in the kitchen or enjoying a simple meal at home, our Mustard is the perfect addition to any meal.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/5XbttRj4"
-  },
-  {
-    "icon": "https://i.postimg.cc/KjR84LcM/DSCF8638-126.jpg",
-    "name": "Javantri",
-    "desc": "Javantri is a popular spice produced in India. It is also known as mace and has a slightly sweet and nutty flavor. It is commonly used in Indian cuisine to add aroma and depth of flavor to dishes.",
-    "category": "Agriculture",
-    "link": "https://postimg.cc/q6HT5N3J"
-  },
-  {
-    "icon": "https://i.postimg.cc/zfSgm9GP/Whats-App-Dec-20-Image-5.jpg",
+    "icon": "https://i.postimg.cc/yk2x0HWb/Picsart-24-04-16-22-22-02-274.png",
     "name": "Used CNC Machines",
     "desc": "High-quality used CNC machines, refurbished to meet industry standards. Ideal for precision machining and cost-effective production solutions.",
     "category": "Engineering",
-    "link": "https://postimg.cc/WDz3gYrM"
+    "link": "https://i.postimg.cc/yk2x0HWb"
   },
   {
-    "icon": "https://i.postimg.cc/T1r8Qq9m/Whats-App-Dec-20-Image-4.jpg",
+    "icon": "https://i.postimg.cc/hJ1GFQsk/Picsart-24-04-16-22-24-36-677.png",
     "name": "Refurbished Drilling Rigs",
     "desc": "Expertly refurbished drilling rigs offering reliable performance for various drilling operations. A sustainable and budget-friendly choice.",
     "category": "Engineering",
-    "link": "https://postimg.cc/kRXhgSLX"
+    "link": "https://i.postimg.cc/hJ1GFQsk"
   },
   {
-    "icon": "https://i.postimg.cc/8CFhqyr2/Whats-App-Dec-20-Image-3.jpg",
+    "icon": "https://i.postimg.cc/PCZx4Rwr/Picsart-24-04-16-22-26-26-589.png",
     "name": "Hammer Spares",
     "desc": "Durable and high-quality hammer spares, compatible with various hammer models. Ensures efficient and uninterrupted working of machinery.",
     "category": "Engineering",
-    "link": "https://postimg.cc/2qDbW7GG"
+    "link": "https://i.postimg.cc/PCZx4Rwr"
   },
   {
-    "icon": "https://i.postimg.cc/cCTZ7BTH/Whats-App-Dec-20-Image-2.jpg",
+    "icon": "https://i.postimg.cc/KK2YsDP7/Picsart-24-04-16-22-28-35-469.png",
     "name": "Drilling Spares",
     "desc": "Premium drilling spares designed for optimal drilling efficiency. Features robust construction for long-term use in demanding conditions.",
     "category": "Engineering",
-    "link": "https://postimg.cc/y3Jws9M4"
+    "link": "https://i.postimg.cc/KK2YsDP7"
   },
   {
-    "icon": "https://i.postimg.cc/KYQKzthZ/Whats-App-Image-2023-12-20-at-12-09-32.jpg",
+    "icon": "https://i.postimg.cc/KKSKh22M/Picsart-24-04-16-22-30-02-540.png",
     "name": "Drill Rods",
     "desc": "High-strength drill rods, engineered for deep drilling applications. Provides excellent wear resistance and toughness.",
     "category": "Engineering",
-    "link": "https://postimg.cc/d7kQNk0X"
-  },
-  {
-    "link": "https://postimg.cc/FfRkrHHg",
-    "icon": "https://i.postimg.cc/FKbyxftq/Whats-App-Dec-20-Image-1.jpg",
-    "name": "Bits",
-    "desc": "Precision-engineered bits for various drilling needs. Offers superior cutting performance and longevity in a range of materials.",
-    "category": "Engineering"
-  },
-  {
-    "icon": "https://i.postimg.cc/3xVSq0cx/Whats-App-Dec-20-Image.jpg",
-    "name": "Hammers",
-    "desc": "Robust and efficient hammers for a variety of industrial applications. Engineered for high impact and durability.",
-    "category": "Engineering",
-    "link": "https://postimg.cc/XrKkGqWR"
+    "link": "https://i.postimg.cc/KKSKh22M"
   }
 ]

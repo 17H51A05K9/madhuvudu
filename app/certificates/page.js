@@ -10,6 +10,7 @@ import jaywin from "../../public/img/jaywinimpexp.jpg";
 import fssai from "../../public/img/FSSAI.jpg";
 import spices from "../../public/img/spices.jpg";
 import udyam from "../../public/img/udyam.jpg";
+import tcci from "../../public/img/TCCI.jpg";
 import apeda from "../../public/img/apeda.jpg";
 import IEC from "../../public/img/IEC.jpg";
 import { images } from "../../components/certificates";
@@ -24,17 +25,14 @@ export default function Home() {
       <Navbar />
 
       <Container className="w-100 mx-auto grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5">
-        <Benefit title="International Organization for Standardization" icon={jaywin}>
-        </Benefit>
+      
         <Benefit title="Good's Service Tax" icon={gst}>
         </Benefit>
-        <Benefit title="FSSAI Food Safety and Standards Authority of India" icon={fssai}>
-        </Benefit>
+        
         <Benefit title="UDYAM Registration Certificate" icon={udyam}>
         </Benefit>
-        <Benefit title="Agricultural and Processed Food Products Export Development Authority" icon={apeda}>
-        </Benefit>
-        <Benefit title="Certificate of Registration  As Exported of Spices" icon={spices}>
+        
+        <Benefit title="Certificate of Telangana Chambers of Commerce" icon={tcci}>
         </Benefit>
         <Benefit title="Importer-Exporter Code" icon={IEC}>
         </Benefit>

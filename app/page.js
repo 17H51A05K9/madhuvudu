@@ -29,10 +29,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jaywin - Imports & Exports</title>
+        <title>Madhavudu International - Exports & Imports</title>
         <meta
           name="description"
-          content="Jaywin is a import and export business based out of india, delivering excellence worldwide"
+          content="Madhavudu International is a export and import business based out of india, delivering excellence worldwide"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -40,7 +40,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Jaywin Benefits"
+        pretitle="Madhavudu International Benefits"
         title=" Why use us to import your goods"
       >
         We have a wide network of suppliers, we are experts in the export
@@ -66,7 +66,7 @@ export default function Home() {
       ></SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        You can always feel free to contact us at info@jaywin.in or click the
+        You can always feel free to contact us at info@madhavuduinternational.com or click the
         chat icon at bottom right corner.
       </SectionTitle>
       <Faq />

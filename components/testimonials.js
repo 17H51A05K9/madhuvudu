@@ -13,7 +13,7 @@ export default function Testimonials() {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-4 rounded-2xl py-4 dark:bg-trueGray-800 md:px-14 md:py-14">
             <p className="text leading-normal md:text-2xl">
-              I found Jaywin a <Mark>reliable and trustworthy</Mark>
+              I found Madhavudu International a <Mark>reliable and trustworthy</Mark>
               company they were absolutely amazing. They helped me find the
               right products with the best prices, and ship my products safely
               and efficiently.
@@ -22,7 +22,7 @@ export default function Testimonials() {
             <Avatar
               image={userOneImg}
               name="Happy Customer"
-              title="Buyer of Basmati Rice"
+              title="Buyer of flat rolled products of iron or non alloy steel"
             />
           </div>
         </div>
@@ -30,21 +30,21 @@ export default function Testimonials() {
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-4 rounded-2xl py-4 dark:bg-trueGray-800 md:px-14 md:py-14">
             <p className="text leading-normal md:text-2xl">
               I was <Mark>very impressed </Mark> with the level of service I
-              received from Jaywin. I would definitely use them again in the
+              received from Madhavudu International. I would definitely use them again in the
               future.
             </p>
 
             <Avatar
               image={userTwoImg}
               name="Happy Customer"
-              title="Buyer of Cashew"
+              title="Buyer of Unwrought aluminium alloys in the form of slabs or billets"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-4 rounded-2xl py-4 dark:bg-trueGray-800 md:px-14 md:py-14">
             <p className="text leading-normal md:text-2xl">
-              Jaywin has a <Mark>wide network of contacts</Mark> and they are
+              Madhavudu International has a <Mark>wide network of contacts</Mark> and they are
               experts in the export process. I am very happy with the results of
               our partnership.
             </p>
@@ -52,7 +52,7 @@ export default function Testimonials() {
             <Avatar
               image={userThreeImg}
               name="Happy Customer"
-              title="Buyer of Mango"
+              title="Buyer of Ground nuts"
             />
           </div>
         </div>

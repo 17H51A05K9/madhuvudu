@@ -41,11 +41,6 @@ const faqdata = [
   {
     question: "How can I get a price quote",
     answer:
-      "Please Drop a mail to us at info@jaywin.in or info.jaywin@gmail.com our team responds back as soon as possible, or you can use chat feature on website",
-  },
-  {
-    question: "What is your refund policy? ",
-    answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
-  },
+      "Please Drop a mail to us at info@madhavuduinternational or madhavuduinternational@gmail.com our team responds back as soon as possible, or you can use chat feature on website",
+  }
 ];

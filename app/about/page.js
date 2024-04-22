@@ -39,12 +39,12 @@ import { Avatar } from "../../components/testimonials";
 
 const benefitOne = {
   title: "Mission",
-  desc: " At Jaywin, our mission is to connect farmers in India with global markets, ensuring fair prices and support for their products.",
+  desc: " At Madhavudu International, our mission is to connect farmers and manufracturers in India with global markets, ensuring fair prices and support for their products.",
   image: MissionImg,
   bullets: [
     {
       title: "Be trusted partner",
-      desc: "We strive to be a trusted partner for importers and exporters, providing efficient and reliable courier services for pulses, grains, fruits, and textiles.",
+      desc: "We strive to be a trusted partner for exporters and importers, providing efficient and reliable courier services for pulses, grains, fruits and Engineering products.",
       icon: <GlobeAltIcon />,
     },
     {
@@ -77,10 +77,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jaywin - Imports & Exports</title>
+        <title>Madhavudu International - Exports & Imports</title>
         <meta
           name="description"
-          content="Jaywin is a import and export business based out of india, delivering excellence worldwide"
+          content="Madhavudu International is a import and export business based out of india, delivering excellence worldwide"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -94,7 +94,7 @@ export default function Home() {
               <h6 className="font-bold">The CEO's Vision</h6>
               <br />
               <i>
-                "I believe that Jaywin has a bright future. We are committed to
+                "I believe that Madhavudu International has a bright future. We are committed to
                 providing our customers with the best possible products and
                 services, and we are confident that we can continue to grow and
                 succeed."
@@ -103,8 +103,8 @@ export default function Home() {
 
             <Avatar
               image={userOneImg}
-              name="Kashi viswanath"
-              title="CEO Jaywin"
+              name="Venkatesh Pathi"
+              title="CEO Madhavudu International"
             />
           </div>
         </div>
@@ -144,7 +144,7 @@ export default function Home() {
 
 const Benefit = (props) => {
   return (
-    <div class="w-72 shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+    <div className="w-72 shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <Image
         src={props.icon}
         alt="Benefits"
@@ -153,13 +153,13 @@ const Benefit = (props) => {
           maxWidth: "100%",
           height: "auto"
         }} />
-      <div class="p-5">
+      <div className="p-5">
         <a href="#">
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {props.title}
           </h5>
         </a>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+        <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
           {props.children}
         </p>
       </div>

@@ -41,13 +41,13 @@ export default function RootLayout({ children }) {
 
           <meta
             name="description"
-            content="Jaywin is a leading import export company based in India, offering high-quality and organic Indian produce to customers across the globe. Contact us today for a quote."
+            content="Madhavudu International is a leading import export company based in India, offering high-quality and organic Indian produce to customers across the globe. Contact us today for a quote."
           />
           <meta
             name="keywords"
-            content="indian imports, indian cashew, indian basmati, indian rice, jaywin, import export, indian produce, organic, spices, grains, fruits, vegetables, worldwide"
+            content="indian imports, indian cashew, indian basmati, indian rice, Madhavudu International, import export, indian produce, organic, spices, grains, fruits, vegetables, worldwide"
           />
-          <meta name="author" content="Jaywin" />
+          <meta name="author" content="Madhavudu International" />
         </head>
         <body className="bg-white dark:bg-gray-800 p-0 md:p-4">
             <ClientLayout>

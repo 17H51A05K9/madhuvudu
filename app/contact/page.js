@@ -70,10 +70,10 @@ export default function Home() {
 
   return <>
     <Head>
-      <title>Jaywin - Imports & Exports</title>
+      <title>Madhavudu International - Exports & Imports</title>
       <meta
         name="description"
-        content="Jaywin is a import and export business based out of india, delivering excellence worldwide"
+        content="Madhavudu International is a import and export business based out of india, delivering excellence worldwide"
       />
       <link rel="icon" href="/favicon.ico" />
     </Head>
@@ -104,10 +104,10 @@ export default function Home() {
             <div class="ml-6 grow">
               <p class="mb-2 font-bold dark:text-white">Sales questions</p>
               <p class="text-neutral-500 dark:text-neutral-200">
-                info@jaywin.in
+                info@madhavuduinternational.com
               </p>
               <p class="text-neutral-500 dark:text-neutral-200">
-                +91-7013154363
+                +91-9494422121
               </p>
             </div>
           </div>
@@ -135,10 +135,10 @@ export default function Home() {
             <div class="ml-6 grow">
               <p class="mb-2 font-bold dark:text-white">Order Support</p>
               <p class="text-neutral-500 dark:text-neutral-200">
-                suuport@jaywin.in
+                suuport@madhavuduinternational.com
               </p>
               <p class="text-neutral-500 dark:text-neutral-200">
-                +91 7013154363
+                +91 9494422121
               </p>
             </div>
           </div>

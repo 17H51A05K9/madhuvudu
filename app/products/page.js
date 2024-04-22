@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jaywin - Imports & Exports</title>
+        <title>Madhavudu International - Exports & Imports</title>
         <meta
           name="description"
-          content="Jaywin is a import and export business based out of india, delivering excellence worldwide"
+          content="Madhavudu International is a import and export business based out of india, delivering excellence worldwide"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -71,7 +71,7 @@ const ProductsList = () => {
             Explore Our Diverse Categories
         </span>
         <span className="text-md font-normal md:text-lg lg:text-xl">
-        At Jaywin, we pride ourselves on being a hub of international commerce. Our categories page is designed to seamlessly guide you through our extensive range of products and services, ensuring you find exactly what you're looking for in the vast world of import and export.
+        At Madhavudu International, we pride ourselves on being a hub of international commerce. Our categories page is designed to seamlessly guide you through our extensive range of products and services, ensuring you find exactly what you're looking for in the vast world of import and export.
         </span>
 
       </Container>

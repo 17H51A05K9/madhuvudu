@@ -34,7 +34,7 @@ export default function Navbar() {
                       className="w-8"
                     /> */}
                   </span>
-                  <span>Jaywin</span>
+                  <span>Madhavudu International</span>
 
                 </Link>
 
